@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfServiceAPE.WS1" CodeBehind="GrillaPrincipal.svc.cs" %>
